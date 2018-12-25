@@ -25,7 +25,7 @@ To download all images of class you can use :
 output folder name defaults to ILSVRC and classes defaults to random_10.
 -n has to be provided always.
 
-##Acknoledgement:
+## Acknoledgement:
 akshaychawla for your repository on the same. I have tried to make it way more user-friendly and removed all 
 the issues and errors from the and made it python 3 compatible.
 
